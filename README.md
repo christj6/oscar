@@ -1,0 +1,4 @@
+oscar
+=====
+
+Learning superCollider
